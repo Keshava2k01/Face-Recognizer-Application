@@ -11,6 +11,8 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
 from tensorflow.keras.utils import to_categorical
 import ssl
+
+# Disable SSL certificate verification (useful for some environments, but may pose security risks)
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # Path to the folder containing the images
