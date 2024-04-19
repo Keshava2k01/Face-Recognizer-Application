@@ -46,10 +46,6 @@ model = Model(vgg_model.input, output)
 # Compile the model
 model.compile(optimizer=Adam(learning_rate=0.001), loss='categorical_crossentropy', metrics=['accuracy'])
 
-
-
-
-
 # Load images and labels
 X, y = [], []
 for person in items:
