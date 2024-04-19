@@ -22,4 +22,5 @@ This project is a face recognition application built using Python, Tkinter, and 
   Improve the user interface for a more seamless experience.
   Feel free to contribute to this project by forking the repository and submitting a pull request with your changes. Thank you for your interest in this project!
 
-
+## Author Notes
+* This project was developed as the final project for one of my courses. Please excuse any basic errors you may encounter. For the project to achieve accurate face recognition, it is recommended to add approximately 100 images for each person so that the model can be effectively trained.
