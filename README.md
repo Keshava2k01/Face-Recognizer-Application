@@ -13,7 +13,7 @@ This project is a face recognition application built using Python, Tkinter, and 
 * OpenCV
  
 ## Installation
-* Clone the repository: git clone https://github.com/your-username/face-recognition-project.git
+* Clone the repository: git clone https://github.com/Keshava2k01/Face-Recognizer-Application.git
 * Install the required dependencies: pip install -r requirements.txt
 * Run the application: python main.py
 
